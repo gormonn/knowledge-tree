@@ -1,6 +1,6 @@
 нужен простой конечный полный граф 
 
-[Madge](https://www.npmjs.com/package/madge) -> [GraphViz](https://graphviz.org/) -> DOT lang -> [Vis.js](http://viz-js.com/) -> [Dagre](https://www.npmjs.com/package/dagre-d3-react) -> [Neo4J](https://neo4j.com/) -> [Cypher](https://en.wikipedia.org/wiki/Cypher_(query_language)) -> [OpenCypher](http://www.opencypher.org/) -> [GQL](https://en.wikipedia.org/wiki/Graph_Query_Language) -> [GraphQL](https://graphql.org/)
+[Madge](https://www.npmjs.com/package/madge) -> [GraphViz](https://graphviz.org/) -> DOT lang -> [Vis.js](http://viz-js.com/) -> [Dagre](https://www.npmjs.com/package/dagre-d3-react) -> [Neo4J](https://neo4j.com/) -> [Cypher](https://en.wikipedia.org/wiki/Cypher_(query_language)) -> [OpenCypher](http://www.opencypher.org/) -> [GQL](https://en.wikipedia.org/wiki/Graph_Query_Language) -> [GraphQL](https://graphql.org/) -> [GraphQL Vouager Visualization](https://github.com/APIs-guru/graphql-voyager)
 
 # Getting Started with Create React App
 

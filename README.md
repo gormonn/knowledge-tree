@@ -4,11 +4,14 @@
 
 [Neo4J](https://neo4j.com/) -> [Visualization tools](https://neo4j.com/developer/tools-graph-visualization/)
 
--> [Neovis.js](https://github.com/neo4j-contrib/neovis.js/)
+  -> [Neovis.js](https://github.com/neo4j-contrib/neovis.js/)
 
--> [Pototo.js](http://www.popotojs.com/)
+  -> [Pototo.js](http://www.popotojs.com/)
 
 -> [Neo4J + GraphQL](https://neo4j.com/developer/graphql/) -> [GRANDStack](https://neo4j.com/labs/grandstack-graphql/)
+
+It's can be graph edge:
+https://elm-visualization.netlify.app/cornerradius/
 
 # Getting Started with Create React App
 

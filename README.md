@@ -11,7 +11,9 @@
 It's can be graph node:
 * https://elm-visualization.netlify.app/cornerradius/
 * https://elm-visualization.netlify.app/custompiechart/
-* 
+
+[Перечень ссылок по визуализации графов с Elm](https://www.reddit.com/r/elm/comments/85a3fd/rendering_graphs/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

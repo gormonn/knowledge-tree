@@ -12,10 +12,10 @@ It's can be graph node:
 * https://elm-visualization.netlify.app/cornerradius/
 * https://elm-visualization.netlify.app/custompiechart/
 
-[Перечень ссылок по визуализации графов с Elm](https://www.reddit.com/r/elm/comments/85a3fd/rendering_graphs/)
-[VegaLite - грамматика интерактивной графики](https://vega.github.io/vega-lite/)
-[Интерактивная лаборатория данных UW](https://idl.cs.washington.edu/)
-[iSeqL](https://github.com/AkshatSh/iSeqL)
+* [Перечень ссылок по визуализации графов с Elm](https://www.reddit.com/r/elm/comments/85a3fd/rendering_graphs/)
+* [VegaLite - грамматика интерактивной графики](https://vega.github.io/vega-lite/)
+* [Интерактивная лаборатория данных UW](https://idl.cs.washington.edu/)
+* [iSeqL](https://github.com/AkshatSh/iSeqL)
 
 Zoom!:
 [Приближение Барнс-Хат](https://jheer.github.io/barnes-hut/)

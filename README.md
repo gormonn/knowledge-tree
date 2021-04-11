@@ -16,6 +16,9 @@ It's can be graph node:
 [VegaLite - грамматика интерактивной графики](https://vega.github.io/vega-lite/)
 [Интерактивная лаборатория данных UW](https://idl.cs.washington.edu/)
 
+Zoom!:
+[Приближение Барнс-Хат](https://jheer.github.io/barnes-hut/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

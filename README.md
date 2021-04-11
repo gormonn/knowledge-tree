@@ -3,16 +3,15 @@
 [Madge](https://www.npmjs.com/package/madge) -> [GraphViz](https://graphviz.org/) -> DOT lang -> [Vis.js](http://viz-js.com/) -> [Dagre](https://www.npmjs.com/package/dagre-d3-react) -> [Neo4J](https://neo4j.com/) -> [Cypher](https://en.wikipedia.org/wiki/Cypher_(query_language)) -> [OpenCypher](http://www.opencypher.org/) -> [GQL](https://en.wikipedia.org/wiki/Graph_Query_Language) -> [GraphQL](https://graphql.org/) -> [GraphQL Vouager Visualization](https://github.com/APIs-guru/graphql-voyager)
 
 [Neo4J](https://neo4j.com/) -> [Visualization tools](https://neo4j.com/developer/tools-graph-visualization/)
-
-  -> [Neovis.js](https://github.com/neo4j-contrib/neovis.js/)
-
-  -> [Pototo.js](http://www.popotojs.com/)
+*  -> [Neovis.js](https://github.com/neo4j-contrib/neovis.js/)
+*  -> [Pototo.js](http://www.popotojs.com/)
 
 -> [Neo4J + GraphQL](https://neo4j.com/developer/graphql/) -> [GRANDStack](https://neo4j.com/labs/grandstack-graphql/)
 
 It's can be graph edge:
-https://elm-visualization.netlify.app/cornerradius/
-
+* https://elm-visualization.netlify.app/cornerradius/
+* https://elm-visualization.netlify.app/custompiechart/
+* 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

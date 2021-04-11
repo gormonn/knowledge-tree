@@ -19,6 +19,9 @@ It's can be graph node:
 Zoom!:
 [Приближение Барнс-Хат](https://jheer.github.io/barnes-hut/)
 
+Сравнение:
+1. можно сравнивать по поинтам главных
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

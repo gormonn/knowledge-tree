@@ -13,6 +13,7 @@ It's can be graph node:
 * https://elm-visualization.netlify.app/custompiechart/
 
 [Перечень ссылок по визуализации графов с Elm](https://www.reddit.com/r/elm/comments/85a3fd/rendering_graphs/)
+[Интерактивная лаборатория данных UW](https://idl.cs.washington.edu/)
 
 # Getting Started with Create React App
 

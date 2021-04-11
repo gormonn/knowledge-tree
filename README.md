@@ -8,7 +8,7 @@
 
 -> [Neo4J + GraphQL](https://neo4j.com/developer/graphql/) -> [GRANDStack](https://neo4j.com/labs/grandstack-graphql/)
 
-It's can be graph edge:
+It's can be graph node:
 * https://elm-visualization.netlify.app/cornerradius/
 * https://elm-visualization.netlify.app/custompiechart/
 * 

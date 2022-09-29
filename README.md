@@ -1,4 +1,6 @@
 29.09.2022
+
+[wasm](https://github.com/hpcc-systems/hpcc-js-wasm/)
 [xdot.py is an interactive viewer for graphs written in Graphviz's dot language.](https://github.com/jrfonseca/xdot.py)
 
 нужен простой конечный полный граф 

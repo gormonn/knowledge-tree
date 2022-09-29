@@ -1,5 +1,5 @@
 29.09.2022
-https://github.com/jrfonseca/xdot.py
+[xdot.py is an interactive viewer for graphs written in Graphviz's dot language.](https://github.com/jrfonseca/xdot.py)
 
 нужен простой конечный полный граф 
 
